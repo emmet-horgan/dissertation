@@ -1,5 +1,7 @@
+<div align="center">
 # Deep Learning for Neonatal Brain Injury Grading
 ***
+</div>
 This repository contains a subset of the source used during *Emmet Horgan's* final year project.  
 There are essentially two sections to the repository, the pre-processing functions and the deep learning functions. The purpose of this description is not to explain the theory behind the pre-processing or deep learning, this can be found in the actual [dissertation](./dissertation.pdf), but instead to provide a short guide to the repository and its structure itself. 
 
